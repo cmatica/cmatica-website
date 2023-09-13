@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.navBarLogo {
+    width: 150px;
+}
+
+#navBar {
+    background: #FFFFFA;
+    height: 64px;
+}
+
+#navBarRightNavigation {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    color: #616161;
+}
